@@ -122,3 +122,46 @@ AS: Sinh viên sẽ chủ động đăng ký nơi thực tập, ngay cả các c
 SV: Tỉ lệ sinh viên ra trường có việc làm	
 
 AS: Tỉ lệ sinh viên ra trường có việc làm hơn 90%, nhưng mức lương sẽ khác biệt vì còn phải phụ thuộc vào năng lực tích luỹ mỗi  sinh viên trong quá trình học cả lý thuyết lẫn thực hành, cùng các kĩ năng mềm và khả năng xử lý tình huống.
+
+SV: Trường có nhiều cơ hội thực tập và du học của sinh viên không?	
+
+SV: Trường mình có tổ chức các khóa học kỹ năng sống, kỹ năng văn phòng không ạ?	
+
+AS: Trường có tổ chức các chương trình đào tạo kỹ năng.
+
+SV: Trường mình có tổ chức hướng nghiệp cho sinh viên không ạ?	
+
+AS: Trường cũng có tổ chức hướng nghiệp
+
+SV: Trường có tổ chức nghiên cứu khoa học không ạ? 
+
+AS: Nếu em có nhu cầu tham gia vào nhóm nghiên cứu thì làm thế nào để tham gia vào được?	
+Trường có tổ chức các đề tài nghiên cứu khoa học, nếu SV có nhu cầu có thể gặp giảng viên đang phụ trách nghiên cứu để đề xuất yêu cầu.
+
+SV: Trường mình có hay tổ chức các hoạt động hay các sự kiện vui chơi cho sinh viên không?	
+
+
+SV: Em không nhận được email của Trường	
+
+AS: Em hỏi email gì nhỉ? Em kiểm tra mục Spam hoặc Quảng cáo nhé. Kiểm tra vẫn không có thì báo em gửi thông tin đầy đủ về email phòng liên quan nhé (ghi cụ thể email phòng đó).
+
+SV: Đường đến Trường có tuyến xe buýt không ạ?	
+
+AS: Có tuyến xe buýt ngay ở cổng trường
+
+SV: Trường mình có thư viện số không ạ? 
+
+SV: Làm thế nào để có thể đọc sách trong thư viện số hóa?	
+
+AS: Trường đã có thư viện số hóa, SV có thể vào đọc giáo trình, tài liệu online mà không cần mượn phải mượn bản cứng ở thư viện. Mỗi SV đều được Nhà trường cấp cho 1 tài khoản riêng để có thể đăng nhập vào Website thư viện số. SV chỉ cần đăng nhập vào được là có thể tìm tài liệu bản thân muốn đọc.
+
+SV: Em có thể vừa đi học vừa đi làm được không ạ?	
+
+AS: Có thể vừa đi làm vừa đi học. Tùy thuộc vào sắp xếp lịch học của Nhà Trường, từ đó chọn lựa thời gian đi làm hợp lý.
+
+SV: Khi học thì em có thể đăng ký chọn môn học để phù hợp với việc vừa học vừa làm, hay phải học theo các môn nhà trường sắp xếp?	
+
+AS: Vào thời điểm đăng ký tín chỉ, nhà trường mở các lớp học phần trên trangweb đào tạo, nếu là các môn bắt buộc thì nên đăng ký học, còn đối với những môn tự chọn thì có thể đăng ký hoặc không để phù hợp với nhu cầu đi làm thêm. Tuy nhiên, ở  mỗi đợt đăng ký, cần đăng ký tối thiểu là 15 tín và tối đa là 22 tín. Và sau 4 hoặc 5 năm học phải tích lũy đủ tín chỉ thì mới đủ điều kiện ra trường.
+
+
+
